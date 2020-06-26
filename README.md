@@ -19,7 +19,6 @@ Time taken to generate 1000000 Fibonacci number: 9.638243 seconds
 Without yield:
 
 ```
-(base) Niteshs-MacBook-Pro:yield-python niteshsinha$
 (base) Niteshs-MacBook-Pro:yield-python niteshsinha$ python fiboWithReturn.py
 Generating 1000000 Fibonacci numbers. Please wait!!
 Memory used to generate 1000000 Fibonacci numbers: 1210.18 MB
